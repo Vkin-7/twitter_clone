@@ -1,0 +1,5 @@
+senhas twitter clone:
+João - 123456;
+Alex_7 - 654321;
+jorge - 123;
+fernanda - 1234;
